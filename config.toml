@@ -6,7 +6,6 @@ title = "eltimn"
   pagerSize = 10
 
 [params]
-  disqusShortname = "eltimn"
   Description = "The home of Tim Nelson"
   SelfIntro = "I'm Tim, a software developer. Currently focused on NixOS, Go, Kotlin, and HTMX."
   GithubID = "eltimn"
