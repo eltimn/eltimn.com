@@ -17,8 +17,8 @@
     <p class="">{{ .Site.Params.SelfIntro }}</p>
     <figure class="user-avatar">
       <figcaption class="user-socials">
-        {{ with .Site.Params.TwitterID }}
-        <a href="https://twitter.com/{{.}}" title="Twitter"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+        {{ with .Site.Params.BlueskyProfile }}
+        <a href="{{.}}" title="Bluesky"><i class="fa fa-cloud" aria-hidden="true"></i></a>
         {{ end }}
         {{ with .Site.Params.GoogleplusID }}
         <a href="https://plus.google.com/{{.}}/about" title="Google+"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a>

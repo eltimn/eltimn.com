@@ -9,7 +9,7 @@ title = "eltimn"
   Description = "The home of Tim Nelson"
   SelfIntro = "I'm Tim, a software developer. Currently focused on NixOS, Go, Kotlin, and HTMX."
   GithubID = "eltimn"
-  TwitterID = "eltimn"
+  BlueskyProfile = "https://bsky.app/profile/eltimn.bsky.social"
 
 [menu]
   [[menu.main]]
