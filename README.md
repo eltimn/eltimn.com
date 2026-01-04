@@ -1,15 +1,14 @@
 # Source Code For eltimn.com Website
 
-This is being hosted by [Netlify](https://app.netlify.com/) who also has control of the DNS entries for eltimn.com.
+This is being hosted at Digital Ocean. DNS is handled by Cloudflare.
 
 # Build
 
 ```shell
-hugo
+hugo # builds the Website
+hugo server # serves it locally
 ```
 
 # Deploy
 
-```shell
-./deploy
-```
+It is auto-deployed when pushed to github by Digital Ocean.

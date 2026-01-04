@@ -1,5 +1,5 @@
 {
-  description = "Basic Application";
+  description = "eltim.com";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.11";
@@ -46,12 +46,8 @@
             hugo
           ];
 
-          env = {
-
-          };
-
           shellHook = ''
-            echo "Welcome to Basic App!"
+            echo "Welcome to eltimn.com!"
           '';
         }
       );
