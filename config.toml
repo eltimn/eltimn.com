@@ -7,7 +7,7 @@ title = "eltimn"
 
 [params]
   Description = "The home of Tim Nelson"
-  SelfIntro = "I'm Tim, a software developer. Currently focused on NixOS, Go, Kotlin, and HTMX."
+  SelfIntro = "I'm Tim, a software developer. Currently focused on NixOS, Go, and HTMX."
   GithubID = "eltimn"
   BlueskyProfile = "https://bsky.app/profile/eltimn.bsky.social"
 
